@@ -1,0 +1,6 @@
+{
+	"sex":"man",
+	"name":"Jackson",
+	"age":46,
+	"group":"2020-20"
+}
